@@ -1,0 +1,5 @@
+{
+  "name": "X-Algorithm Viral Puanlayıcı",
+  "description": "X (Twitter) açık kaynak algoritmasına dayalı olarak gönderilerinizin viral olma potansiyelini analiz eden ve puanlayan bir araç.",
+  "requestFramePermissions": []
+}
